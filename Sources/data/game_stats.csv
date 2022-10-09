@@ -1,8 +1,3 @@
-name,league,points,assists,rebounds
-"bob","nba", 22,5,10
-"jessie",,10,,2
-"stu","euroleague",,,
-"jackson","aba",9,,2
-"timothee",,8,,
-"steph","nba",49,8,10
-,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffca69ef8ec9a675df5cfefd32bd7ee79b3ef61036578342b67af2a9a5dee17a
+size 158
